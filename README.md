@@ -14,7 +14,6 @@
 
 
 - Built in NET. 5 version
-- Uses the [httprouter](https://github.com/julienschmidt/httprouter)
 - Uses the CQRS pattern
 ## Meta
 
